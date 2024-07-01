@@ -8,5 +8,5 @@ def product_of_digits(number):
     
     return product
 
-num = 1234
+num = int(input("Enter a number: "))
 print(f"The product of the digits of {num} is {product_of_digits(num)}")
