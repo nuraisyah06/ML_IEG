@@ -1,0 +1,6 @@
+Product | Quantity | Price
+Matcha Cookies|15|18.9
+Choco Chip Cookies|20|15.3
+Strawberry Tart|25|7.8
+Hokaido Cheesetart|30|3.2
+Portugese Cheesetart|35|2.9
