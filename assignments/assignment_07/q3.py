@@ -52,5 +52,4 @@ if len(string_int) > 1 and len(operations) > 0:
                 
     print(f"Result of calculation: {result}")
 
-#print(string_split)
-#print(string_int)
+
