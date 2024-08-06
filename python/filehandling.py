@@ -42,7 +42,7 @@ def doMenu(filename):
         print(":    0 - Exit                :")
         print(":    1 - List of The Product :")
         print(":    2 - Add Product         :")
-        print(":    3 - Edit Product        :")        
+        print(":    3 - Edit Product        :")
         print(":    4 - Delete Product      :")
         print("******************************")
 

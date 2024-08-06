@@ -1,5 +1,5 @@
 import random
-import faker            #pip install faker
+from faker import Faker            #pip install faker
 from datetime import datetime, timedelta
 
 # Initialize Faker

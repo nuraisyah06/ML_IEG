@@ -1,0 +1,5 @@
+BookingID	Hotel			TourAgency		Commission
+------------------------------------------------------------
+001		Hotel California	BestTours		100.0
+002		The Grand Budapest	TravelExperts		150.0
+003		Shangri-La	HolidayPlanners		200.0

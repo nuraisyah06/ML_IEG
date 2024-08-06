@@ -1,0 +1,11 @@
+ServiceID|ServiceName|CommissionPerDay(%)|AgentName
+H001|Hotel California|0.15|Alice Johnson
+H002|The Grand Budapest|0.16|Bob Smith
+H003|Shangri-La|0.17|Charlie Brown
+H004|Ocean View Inn|0.15|George Lucas
+H005|Desert Oasis|0.18|Harrison Ford
+T001|City Tour|0.13|Daisy Ridley
+T002|Best Tour|0.21|Ethan Hunt
+T003|Daebak Tour|0.15|Fiona Apple
+T004|Historical Tour|0.05|Ivy League
+T005|Safari Tour|0.25|Jack Sparrow

@@ -1,0 +1,13 @@
+ServiceID|ServiceName|PricePerDay(RM)|CommissionPercentage(%)|AgentName
+H001|Hotel California|150|0.15|Alice Johnson
+H002|The Grand Budapest|125|0.16|Bob Smith
+H005|Desert Oasis|68|0.18|Harrison Ford
+T001|City Tour|78|0.13|Era Fazira
+T002|Best Tour|65|0.21|Ethan Hunt
+T005|Safari Tour|52|0.35|Dinesh Raj
+H006|Impiana Hotel|45|0.30|Ali Baba
+T006|Tour Pusing-Pusing|68|0.13|Amin Abid
+H007|Hotel Tidur Lena|96|0.10|Ailee Sabri
+H009|Tidur Makan TIdur|79|0.18|Syah Ahmad
+T008|Jalan-Jalan Walk|69|0.16|Abdullah Meow
+H010|Tidur je Kerja|78|0.18|Beatrice

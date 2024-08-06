@@ -1,0 +1,14 @@
+[
+    {
+        "product": "Television",
+        "quantity": 10,
+        "price": 1455.55
+        
+    },
+    {
+        "product": "Computer",
+        "quantity": 5,
+        "price": 5465.85
+        
+    }
+]

@@ -1,0 +1,18 @@
+import numpy as np
+import pandas as pd
+from sqlalchemy import create_engine
+
+population = pd.read_csv('population.csv')
+population.drop([0,1], axis=0, inplace=True)
+population.reset_index(inplace=True)
+population.drop('index', axis=1, inplace=True)
+population.drop('idxs', axis=1, inplace=True)
+population = population[['state', 'pop_5', 'pop_12', 'pop_18', 'pop_60', 'pop']]
+population.columns = ['state', 'children', 'teenager', 'adult', 'senior', 'total']
+print(population)
+population.to_excel("population.xlsx")
+
+# connection = mysql.connect(
+    #     host='localhost', user='root', password=' ', database = 'Peneraju)
+engine = create_engine("mysql+mysqlconnector://root@localhost/Peneraju")
+population.to_sql('population', con=engine, if_exists='append')

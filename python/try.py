@@ -1,4 +1,3 @@
 import re
-sentence = 'we are humans'
-matched = re.match(r'(.*) (.*?) (.*)', sentence)
-print(matched.groups())
+print(re.sub('ge','**','Geeksforgeeks', flags=re.IGNORECASE, end = " "))
+print(re.sub('ge','**','Geeksforgeeks'))
